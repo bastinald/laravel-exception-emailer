@@ -5,8 +5,7 @@ This package will send an email any time an exception happens in your Laravel ap
 ## Documentation
 
 - [Installation](#installation)
-- [Publishing Assets](#publishing-assets)
-    - [Custom Config](#custom-config)
+- [Publishing Config](#publishing-config)
 
 ## Installation
 
@@ -62,9 +61,7 @@ Set the emails & environments in the published config file:
 'environments' => 'production',
 ```
 
-## Publishing Assets
-
-### Custom Config
+## Publishing Config
 
 Customize the package configuration by publishing the config file:
 
