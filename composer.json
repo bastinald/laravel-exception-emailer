@@ -1,7 +1,7 @@
 {
     "name": "bastinald/laravel-exception-emailer",
     "homepage": "https://github.com/bastinald/laravel-exception-emailer",
-    "description": "Laravel exception message & stack emailer.",
+    "description": "Laravel exception message & stack trace emailer.",
     "license": "MIT",
     "authors": [
         {
