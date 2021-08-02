@@ -55,7 +55,12 @@ Publish the config file:
 php artisan vendor:publish --tag=laravel-exception-emailer:config
 ```
 
-Now just update the emails & environments in the published config file.
+Set the emails & environments in the published config file:
+
+```php
+'emails' => 'admin@example.com',
+'environments' => 'production',
+```
 
 ## Publishing Assets
 
