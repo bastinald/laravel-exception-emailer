@@ -1,3 +1,9 @@
+# No Longer Maintained
+
+I originally created this package because Sentry was having some issues with versioning. They have since fixed all of the issues. I recommend using Sentry to anyone who might have been using this package.
+
+---
+
 # Laravel Exception Emailer
 
 This package will send an email any time an exception happens in your Laravel application. The email contains the exception message and a full stack trace. You can specify which email addresses to send to, as well as which environments the emails should be sent in.
